@@ -1,2 +1,3 @@
 # paper-sizes
-A list of common paper sizes in mm and inches
+
+A list of common paper sizes in mm, inches and points.
