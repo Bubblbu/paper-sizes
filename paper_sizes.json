@@ -1,0 +1,1193 @@
+{
+  "Miscellaneous": {
+    "Legal": {
+      "mm": [
+        216,
+        356
+      ],
+      "inches": [
+        8.5,
+        14.0
+      ]
+    },
+    "Junior Legal": {
+      "mm": [
+        127,
+        203
+      ],
+      "inches": [
+        5.0,
+        8.0
+      ]
+    },
+    "1/3 A4": {
+      "mm": [
+        99,
+        210
+      ],
+      "inches": [
+        3.9,
+        8.3
+      ]
+    },
+    "Gutenberg Bible": {
+      "mm": [
+        280,
+        398
+      ],
+      "inches": [
+        11.0,
+        15.7
+      ]
+    },
+    "CD case insert": {
+      "mm": [
+        120,
+        120
+      ],
+      "inches": [
+        4.7,
+        4.7
+      ]
+    },
+    "A4 square": {
+      "mm": [
+        210,
+        210
+      ],
+      "inches": [
+        8.3,
+        8.3
+      ]
+    },
+    "The Print Handbook": {
+      "mm": [
+        119,
+        178
+      ],
+      "inches": [
+        4.7,
+        7.0
+      ]
+    },
+    "A format paperback": {
+      "mm": [
+        110,
+        178
+      ],
+      "inches": [
+        4.3,
+        7.0
+      ]
+    },
+    "B format paperback": {
+      "mm": [
+        130,
+        198
+      ],
+      "inches": [
+        5.1,
+        7.8
+      ]
+    },
+    "48 sheet billboard": {
+      "mm": [
+        6096,
+        3048
+      ],
+      "inches": [
+        240.0,
+        120.0
+      ]
+    }
+  },
+  "Business card sizes": {
+    "Business card (UK)": {
+      "mm": [
+        55,
+        85
+      ],
+      "inches": [
+        2.2,
+        3.3
+      ]
+    },
+    "Business card (US)": {
+      "mm": [
+        51,
+        89
+      ],
+      "inches": [
+        2.0,
+        3.5
+      ]
+    },
+    "Business card (Japan)": {
+      "mm": [
+        55,
+        91
+      ],
+      "inches": [
+        2.2,
+        3.6
+      ]
+    }
+  },
+  "International A paper sizes": {
+    "A0": {
+      "mm": [
+        841,
+        1189
+      ],
+      "inches": [
+        33.1,
+        46.8
+      ]
+    },
+    "A1": {
+      "mm": [
+        594,
+        841
+      ],
+      "inches": [
+        23.4,
+        33.1
+      ]
+    },
+    "A2": {
+      "mm": [
+        420,
+        594
+      ],
+      "inches": [
+        16.5,
+        23.4
+      ]
+    },
+    "A3": {
+      "mm": [
+        297,
+        420
+      ],
+      "inches": [
+        11.7,
+        16.5
+      ]
+    },
+    "A4": {
+      "mm": [
+        210,
+        297
+      ],
+      "inches": [
+        8.3,
+        11.7
+      ]
+    },
+    "A5": {
+      "mm": [
+        148,
+        210
+      ],
+      "inches": [
+        5.8,
+        8.3
+      ]
+    },
+    "A6": {
+      "mm": [
+        105,
+        148
+      ],
+      "inches": [
+        4.1,
+        5.8
+      ]
+    },
+    "A7": {
+      "mm": [
+        74,
+        105
+      ],
+      "inches": [
+        2.9,
+        4.1
+      ]
+    },
+    "A8": {
+      "mm": [
+        52,
+        74
+      ],
+      "inches": [
+        2.0,
+        2.9
+      ]
+    },
+    "A9": {
+      "mm": [
+        37,
+        52
+      ],
+      "inches": [
+        1.5,
+        2.0
+      ]
+    },
+    "A10": {
+      "mm": [
+        26,
+        37
+      ],
+      "inches": [
+        1.0,
+        1.5
+      ]
+    }
+  },
+  "US ANSI paper sizes": {
+    "ANSI A (letter)": {
+      "mm": [
+        216,
+        279
+      ],
+      "inches": [
+        8.5,
+        11
+      ]
+    },
+    "ANSI B (ledger & tabloid)": {
+      "mm": [
+        279,
+        432
+      ],
+      "inches": [
+        11,
+        17
+      ]
+    },
+    "ANSI C": {
+      "mm": [
+        432,
+        559
+      ],
+      "inches": [
+        17,
+        22
+      ]
+    },
+    "ANSI D": {
+      "mm": [
+        559,
+        864
+      ],
+      "inches": [
+        22,
+        34
+      ]
+    },
+    "ANSI E": {
+      "mm": [
+        864,
+        1118
+      ],
+      "inches": [
+        34,
+        44
+      ]
+    }
+  },
+  "Architectural paper sizes": {
+    "Arch A": {
+      "mm": [
+        229,
+        305
+      ],
+      "inches": [
+        9,
+        12
+      ]
+    },
+    "Arch B": {
+      "mm": [
+        305,
+        457
+      ],
+      "inches": [
+        12,
+        18
+      ]
+    },
+    "Arch C": {
+      "mm": [
+        457,
+        610
+      ],
+      "inches": [
+        18,
+        24
+      ]
+    },
+    "Arch D": {
+      "mm": [
+        610,
+        914
+      ],
+      "inches": [
+        24,
+        36
+      ]
+    },
+    "Arch E": {
+      "mm": [
+        914,
+        1219
+      ],
+      "inches": [
+        36,
+        48
+      ]
+    },
+    "Arch E1": {
+      "mm": [
+        762,
+        1067
+      ],
+      "inches": [
+        30,
+        42
+      ]
+    },
+    "Arch E2": {
+      "mm": [
+        660,
+        965
+      ],
+      "inches": [
+        26,
+        38
+      ]
+    },
+    "Arch E3": {
+      "mm": [
+        686,
+        991
+      ],
+      "inches": [
+        27,
+        39
+      ]
+    }
+  },
+  "RA & SRA paper sizes": {
+    "RA0": {
+      "mm": [
+        860,
+        1220
+      ],
+      "inches": [
+        33.0125,
+        46.75
+      ]
+    },
+    "RA1": {
+      "mm": [
+        610,
+        860
+      ],
+      "inches": [
+        24.0,
+        33.9
+      ]
+    },
+    "RA2": {
+      "mm": [
+        430,
+        610
+      ],
+      "inches": [
+        16.9,
+        24.0
+      ]
+    },
+    "RA3": {
+      "mm": [
+        305,
+        430
+      ],
+      "inches": [
+        12.0,
+        16.9
+      ]
+    },
+    "RA4": {
+      "mm": [
+        215,
+        305
+      ],
+      "inches": [
+        8.5,
+        12.0
+      ]
+    },
+    "SRA0": {
+      "mm": [
+        900,
+        1280
+      ],
+      "inches": [
+        35.4,
+        50.4
+      ]
+    },
+    "SRA1": {
+      "mm": [
+        640,
+        900
+      ],
+      "inches": [
+        25.2,
+        35.4
+      ]
+    },
+    "SRA2": {
+      "mm": [
+        450,
+        640
+      ],
+      "inches": [
+        17.7,
+        25.2
+      ]
+    },
+    "SRA3": {
+      "mm": [
+        320,
+        450
+      ],
+      "inches": [
+        12.6,
+        17.7
+      ]
+    },
+    "SRA4": {
+      "mm": [
+        225,
+        320
+      ],
+      "inches": [
+        8.9,
+        12.6
+      ]
+    }
+  },
+  "International B paper sizes": {
+    "B0": {
+      "mm": [
+        1414,
+        1000
+      ],
+      "inches": [
+        55.7,
+        39.4
+      ]
+    },
+    "B1": {
+      "mm": [
+        1000,
+        707
+      ],
+      "inches": [
+        39.4,
+        27.8
+      ]
+    },
+    "B2": {
+      "mm": [
+        707,
+        500
+      ],
+      "inches": [
+        27.8,
+        19.7
+      ]
+    },
+    "B3": {
+      "mm": [
+        500,
+        353
+      ],
+      "inches": [
+        19.7,
+        13.9
+      ]
+    },
+    "B4": {
+      "mm": [
+        353,
+        250
+      ],
+      "inches": [
+        13.9,
+        9.8
+      ]
+    },
+    "B5": {
+      "mm": [
+        250,
+        176
+      ],
+      "inches": [
+        9.8,
+        6.9
+      ]
+    },
+    "B6": {
+      "mm": [
+        176,
+        125
+      ],
+      "inches": [
+        6.9,
+        4.9
+      ]
+    },
+    "B7": {
+      "mm": [
+        125,
+        88
+      ],
+      "inches": [
+        4.9,
+        3.5
+      ]
+    },
+    "B8": {
+      "mm": [
+        88,
+        62
+      ],
+      "inches": [
+        3.5,
+        2.4
+      ]
+    },
+    "B9": {
+      "mm": [
+        62,
+        44
+      ],
+      "inches": [
+        2.4,
+        1.7
+      ]
+    },
+    "B10": {
+      "mm": [
+        44,
+        31
+      ],
+      "inches": [
+        1.7,
+        1.2
+      ]
+    },
+    "B1+": {
+      "mm": [
+        1020,
+        720
+      ],
+      "inches": [
+        40.2,
+        28.3
+      ]
+    },
+    "B2+": {
+      "mm": [
+        720,
+        520
+      ],
+      "inches": [
+        28.3,
+        20.5
+      ]
+    }
+  },
+  "International C size envelopes": {
+    "C0": {
+      "mm": [
+        1297,
+        917
+      ],
+      "inches": [
+        51.5,
+        36.1
+      ]
+    },
+    "C1": {
+      "mm": [
+        917,
+        648
+      ],
+      "inches": [
+        36.1,
+        25.5
+      ]
+    },
+    "C2": {
+      "mm": [
+        648,
+        458
+      ],
+      "inches": [
+        25.5,
+        18.0
+      ]
+    },
+    "C3": {
+      "mm": [
+        458,
+        324
+      ],
+      "inches": [
+        18.0,
+        12.8
+      ]
+    },
+    "C4": {
+      "mm": [
+        324,
+        229
+      ],
+      "inches": [
+        12.8,
+        9.0
+      ]
+    },
+    "C5": {
+      "mm": [
+        229,
+        162
+      ],
+      "inches": [
+        9.0,
+        6.4
+      ]
+    },
+    "C6": {
+      "mm": [
+        162,
+        114
+      ],
+      "inches": [
+        6.4,
+        4.5
+      ]
+    },
+    "C7": {
+      "mm": [
+        114,
+        81
+      ],
+      "inches": [
+        4.5,
+        3.2
+      ]
+    },
+    "C8": {
+      "mm": [
+        81,
+        57
+      ],
+      "inches": [
+        3.2,
+        2.2
+      ]
+    },
+    "C9": {
+      "mm": [
+        57,
+        40
+      ],
+      "inches": [
+        2.2,
+        1.6
+      ]
+    },
+    "C10": {
+      "mm": [
+        40,
+        28
+      ],
+      "inches": [
+        1.6,
+        1.1
+      ]
+    }
+  },
+  "Common US press sheet sizes": {
+    "11 x 17": {
+      "mm": "None",
+      "inches": [
+        11,
+        17
+      ]
+    },
+    "12 x 18": {
+      "mm": "None",
+      "inches": [
+        12,
+        18
+      ]
+    },
+    "17 x 22": {
+      "mm": "None",
+      "inches": [
+        17,
+        22
+      ]
+    },
+    "19 x 25": {
+      "mm": "None",
+      "inches": [
+        19,
+        25
+      ]
+    },
+    "20 x 26": {
+      "mm": "None",
+      "inches": [
+        20,
+        26
+      ]
+    },
+    "23 x 29": {
+      "mm": "None",
+      "inches": [
+        23,
+        29
+      ]
+    },
+    "23 x 35": {
+      "mm": "None",
+      "inches": [
+        23,
+        35
+      ]
+    },
+    "24 x 36": {
+      "mm": "None",
+      "inches": [
+        24,
+        36
+      ]
+    },
+    "25 x 38": {
+      "mm": "None",
+      "inches": [
+        25,
+        38
+      ]
+    },
+    "26 x 40": {
+      "mm": "None",
+      "inches": [
+        26,
+        40
+      ]
+    },
+    "28 x 40": {
+      "mm": "None",
+      "inches": [
+        28,
+        40
+      ]
+    },
+    "35 x 45": {
+      "mm": "None",
+      "inches": [
+        35,
+        45
+      ]
+    },
+    "38 x 50": {
+      "mm": "None",
+      "inches": [
+        38,
+        50
+      ]
+    }
+  },
+  "Common US web offset roll widths": {
+    "17.5": 17.5,
+    "18": 18,
+    "23": 23,
+    "23.5": 23.5,
+    "26.5": 26.5,
+    "35": 35,
+    "35.5": 35.5,
+    "38": 38
+  },
+  "US Announcement envelope sizes": {
+    "A-2 envelope": {
+      "mm": "None",
+      "inches": [
+        4.375,
+        5.75
+      ]
+    },
+    "A-6 envelope": {
+      "mm": "None",
+      "inches": [
+        4.75,
+        6.5
+      ]
+    },
+    "A-7 envelope": {
+      "mm": "None",
+      "inches": [
+        5.25,
+        7.25
+      ]
+    },
+    "A-8 envelope": {
+      "mm": "None",
+      "inches": [
+        5.5,
+        8.125
+      ]
+    },
+    "A-10 envelope": {
+      "mm": "None",
+      "inches": [
+        6,
+        9.5
+      ]
+    },
+    "A-Slim envelope": {
+      "mm": "None",
+      "inches": [
+        3.875,
+        8.875
+      ]
+    }
+  },
+  "US Baronial envelope sizes": {
+    "4 Baronial envelope": {
+      "mm": "None",
+      "inches": [
+        3.625,
+        5.125
+      ]
+    },
+    "5.5 Baronial envelope": {
+      "mm": "None",
+      "inches": [
+        4.375,
+        5.75
+      ]
+    },
+    "6 Baronial envelope": {
+      "mm": "None",
+      "inches": [
+        4.75,
+        6.5
+      ]
+    },
+    "Lee envelope": {
+      "mm": "None",
+      "inches": [
+        5.25,
+        7.25
+      ]
+    }
+  },
+  "US Booklet envelope sizes": {
+    "3 Booklet envelope": {
+      "mm": "None",
+      "inches": [
+        4.75,
+        6.5
+      ]
+    },
+    "4.5 Booklet envelope": {
+      "mm": "None",
+      "inches": [
+        5.5,
+        7.5
+      ]
+    },
+    "6 Booklet envelope": {
+      "mm": "None",
+      "inches": [
+        5.75,
+        8.875
+      ]
+    },
+    "6.5 Booklet envelope": {
+      "mm": "None",
+      "inches": [
+        6,
+        9
+      ]
+    },
+    "6.625 Booklet envelope": {
+      "mm": "None",
+      "inches": [
+        6,
+        9.5
+      ]
+    },
+    "6.75 Booklet envelope": {
+      "mm": "None",
+      "inches": [
+        6.5,
+        9.5
+      ]
+    },
+    "7.25 Booklet envelope": {
+      "mm": "None",
+      "inches": [
+        7,
+        10
+      ]
+    },
+    "7.5 Booklet envelope": {
+      "mm": "None",
+      "inches": [
+        7.5,
+        10.5
+      ]
+    },
+    "9 Booklet envelope": {
+      "mm": "None",
+      "inches": [
+        8.75,
+        11.5
+      ]
+    },
+    "9.5 Booklet envelope": {
+      "mm": "None",
+      "inches": [
+        9,
+        12
+      ]
+    },
+    "10 Booklet envelope": {
+      "mm": "None",
+      "inches": [
+        9.5,
+        12.625
+      ]
+    },
+    "13 Booklet envelope": {
+      "mm": "None",
+      "inches": [
+        10,
+        13
+      ]
+    }
+  },
+  "US Catalog envelope sizes": {
+    "1 Catalog envelope": {
+      "mm": "None",
+      "inches": [
+        6,
+        9
+      ]
+    },
+    "1.75 Catalog envelope": {
+      "mm": "None",
+      "inches": [
+        6.5,
+        9.5
+      ]
+    },
+    "3 Catalog envelope": {
+      "mm": "None",
+      "inches": [
+        7,
+        10
+      ]
+    },
+    "6 Catalog envelope": {
+      "mm": "None",
+      "inches": [
+        7.5,
+        10.5
+      ]
+    },
+    "9.75 Catalog envelope": {
+      "mm": "None",
+      "inches": [
+        8.75,
+        11.25
+      ]
+    },
+    "10.5 Catalog envelope": {
+      "mm": "None",
+      "inches": [
+        9,
+        12
+      ]
+    },
+    "12.5 Catalog envelope": {
+      "mm": "None",
+      "inches": [
+        9.5,
+        12.5
+      ]
+    },
+    "13.5 Catalog envelope": {
+      "mm": "None",
+      "inches": [
+        10,
+        13
+      ]
+    },
+    "14.5 Catalog envelope": {
+      "mm": "None",
+      "inches": [
+        11.5,
+        14.5
+      ]
+    },
+    "15.5 Catalog envelope": {
+      "mm": "None",
+      "inches": [
+        12,
+        15.5
+      ]
+    }
+  },
+  "US Commercial/Official envelope sizes": {
+    "6.25 Commercial envelope": {
+      "mm": "None",
+      "inches": [
+        3.5,
+        6
+      ]
+    },
+    "6.75 Commercial envelope": {
+      "mm": "None",
+      "inches": [
+        3.625,
+        6.5
+      ]
+    },
+    "7 Official envelope": {
+      "mm": "None",
+      "inches": [
+        3.75,
+        6.75
+      ]
+    },
+    "7.75 Official envelope": {
+      "mm": "None",
+      "inches": [
+        3.875,
+        7.5
+      ]
+    },
+    "8.625 Official envelope": {
+      "mm": "None",
+      "inches": [
+        3.625,
+        8.625
+      ]
+    },
+    "9 Official envelope": {
+      "mm": "None",
+      "inches": [
+        3.875,
+        8.875
+      ]
+    },
+    "10 Official envelope": {
+      "mm": "None",
+      "inches": [
+        4.125,
+        9.5
+      ]
+    },
+    "11 Official envelope": {
+      "mm": "None",
+      "inches": [
+        4.5,
+        10.375
+      ]
+    },
+    "12 Official envelope": {
+      "mm": "None",
+      "inches": [
+        4.75,
+        11
+      ]
+    },
+    "14 Official envelope": {
+      "mm": "None",
+      "inches": [
+        5,
+        11.5
+      ]
+    }
+  },
+  "US Square envelope sizes": {
+    "6 Square envelope": {
+      "mm": "None",
+      "inches": [
+        6,
+        6
+      ]
+    },
+    "6.5 Square envelope": {
+      "mm": "None",
+      "inches": [
+        6.5,
+        6.5
+      ]
+    },
+    "7 Square envelope": {
+      "mm": "None",
+      "inches": [
+        7,
+        7
+      ]
+    },
+    "7.5 Square envelope": {
+      "mm": "None",
+      "inches": [
+        7.5,
+        7.5
+      ]
+    },
+    "8 Square envelope": {
+      "mm": "None",
+      "inches": [
+        8,
+        8
+      ]
+    },
+    "8.5 Square envelope": {
+      "mm": "None",
+      "inches": [
+        8.5,
+        8.5
+      ]
+    },
+    "9 Square envelope": {
+      "mm": "None",
+      "inches": [
+        9,
+        9
+      ]
+    },
+    "9.5 Square envelope": {
+      "mm": "None",
+      "inches": [
+        9.5,
+        9.5
+      ]
+    }
+  }
+}
