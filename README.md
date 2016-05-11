@@ -1,5 +1,5 @@
 # paper-sizes
-###### A quite extensive list of paper sizes in mm, inches and points..
+###### A quite extensive list of paper sizes in mm, inches and points
 
 + `all_paper_sizes.json` - All the sizes...
 + `common_paper_sizes.json` - The ones you will actually need...

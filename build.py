@@ -17,7 +17,7 @@ def maketable(d, f):
 
 with open("README.md", "w") as f:
 	f.write("# paper-sizes\n")
-	f.write("###### A quite extensive list of paper sizes in mm, inches and points..\n\n")
+	f.write("###### A quite extensive list of paper sizes in mm, inches and points\n\n")
 
 	f.write("+ `all_paper_sizes.json` - All the sizes...\n")
 	f.write("+ `common_paper_sizes.json` - The ones you will actually need...\n\n")
