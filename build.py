@@ -20,15 +20,15 @@ with open("README.md", "w") as f:
 	f.write("###### A quite extensive list of paper sizes in mm, inches and points\n\n")
 
 	f.write("+ `all_paper_sizes.json` - All the sizes...\n")
-	f.write("+ `common_paper_sizes.json` - The ones you will actually need...\n\n")
+	f.write("+ `common_paper_sizes.json` - The ones you will actually need...\n")
 
 	for prior_cat in priority:
-	    f.write("## {}\n".format(prior_cat))
+	    f.write("\n## {}\n".format(prior_cat))
 	    maketable(sizes[prior_cat],f)
 
 	for cat in sorted(sizes.keys()):
 	    if cat not in priority:
-	        f.write("## {}\n".format(cat))
+	        f.write("\n## {}\n".format(cat))
 	        maketable(sizes[cat],f)
 
 	#f.write("Original source: [Paper sizes chart](http://resources.printhandbook.com/pages/paper-size-chart.php)\n")

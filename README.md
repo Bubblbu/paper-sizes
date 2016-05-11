@@ -42,6 +42,7 @@
 | C7 | 114 x 81 | 4.5 x 3.2 | 323 x 230 |
 | C8 | 81 x 57 | 3.2 x 2.2 | 230 x 162 |
 | C9 | 57 x 40 | 2.2 x 1.6 | 162 x 113 |
+
 ## North American sizes
 | Paper size | mm | inches | points |
 | ---------- | :--: | :------: | :------: |
@@ -51,6 +52,7 @@
 | Legal | 216 x 356 | 8.5 x 14 | 612 x 1009 |
 | Letter | 216 x 279 | 8.5 x 11 | 612 x 791 |
 | Tabloid | 279 x 432 | 11 x 17 | 791 x 1225 |
+
 ## ANSI paper sizes
 | Paper size | mm | inches | points |
 | ---------- | :--: | :------: | :------: |
@@ -59,6 +61,7 @@
 | ANSI C | 432 x 559 | 17 x 22 | 1225 x 1585 |
 | ANSI D | 559 x 864 | 22 x 34 | 1585 x 2449 |
 | ANSI E | 864 x 1118 | 34 x 44 | 2449 x 3169 |
+
 ## Architectural paper sizes
 | Paper size | mm | inches | points |
 | ---------- | :--: | :------: | :------: |
@@ -70,12 +73,14 @@
 | Arch E1 | 762 x 1067 | 30 x 42 | 2160 x 3025 |
 | Arch E2 | 660 x 965 | 26 x 38 | 1871 x 2735 |
 | Arch E3 | 686 x 991 | 27 x 39 | 1945 x 2809 |
+
 ## Business card sizes
 | Paper size | mm | inches | points |
 | ---------- | :--: | :------: | :------: |
 | Business card (Japan) | 55 x 91 | 2.2 x 3.6 | 156 x 258 |
 | Business card (UK) | 55 x 85 | 2.2 x 3.3 | 156 x 241 |
 | Business card (US) | 51 x 89 | 2 x 3.5 | 145 x 252 |
+
 ## Common US press sheet sizes
 | Paper size | mm | inches | points |
 | ---------- | :--: | :------: | :------: |
@@ -92,6 +97,7 @@
 | 28 x 40 | 711.2 x 1016 | 28 x 40 | 2016 x 2880 |
 | 35 x 45 | 889 x 1143 | 35 x 45 | 2520 x 3240 |
 | 38 x 50 | 965.2 x 1270 | 38 x 50 | 2736 x 3600 |
+
 ## Miscellaneous
 | Paper size | mm | inches | points |
 | ---------- | :--: | :------: | :------: |
@@ -102,6 +108,7 @@
 | B format paperback | 130 x 198 | 5.1 x 7.8 | 369 x 561 |
 | CD case insert | 120 x 120 | 4.7 x 4.7 | 340 x 340 |
 | Gutenberg Bible | 280 x 398 | 11 x 15.7 | 794 x 1128 |
+
 ## RA & SRA paper sizes
 | Paper size | mm | inches | points |
 | ---------- | :--: | :------: | :------: |
@@ -115,6 +122,7 @@
 | SRA2 | 450 x 640 | 17.7 x 25.2 | 1276 x 1814 |
 | SRA3 | 320 x 450 | 12.6 x 17.7 | 907 x 1276 |
 | SRA4 | 225 x 320 | 8.9 x 12.6 | 638 x 907 |
+
 ## US Announcement envelope sizes
 | Paper size | mm | inches | points |
 | ---------- | :--: | :------: | :------: |
@@ -124,6 +132,7 @@
 | A-7 envelope | 133.35 x 184.15 | 5.25 x 7.25 | 378 x 522 |
 | A-8 envelope | 139.7 x 206.375 | 5.5 x 8.125 | 396 x 585 |
 | A-Slim envelope | 98.425 x 225.425 | 3.875 x 8.875 | 279 x 639 |
+
 ## US Baronial envelope sizes
 | Paper size | mm | inches | points |
 | ---------- | :--: | :------: | :------: |
@@ -131,6 +140,7 @@
 | 5.5 Baronial envelope | 111.125 x 146.05 | 4.375 x 5.75 | 315 x 414 |
 | 6 Baronial envelope | 120.65 x 165.1 | 4.75 x 6.5 | 342 x 468 |
 | Lee envelope | 133.35 x 184.15 | 5.25 x 7.25 | 378 x 522 |
+
 ## US Booklet envelope sizes
 | Paper size | mm | inches | points |
 | ---------- | :--: | :------: | :------: |
@@ -146,6 +156,7 @@
 | 7.5 Booklet envelope | 190.5 x 266.7 | 7.5 x 10.5 | 540 x 756 |
 | 9 Booklet envelope | 222.25 x 292.1 | 8.75 x 11.5 | 630 x 828 |
 | 9.5 Booklet envelope | 228.6 x 304.8 | 9 x 12 | 648 x 864 |
+
 ## US Catalog envelope sizes
 | Paper size | mm | inches | points |
 | ---------- | :--: | :------: | :------: |
@@ -159,6 +170,7 @@
 | 3 Catalog envelope | 177.8 x 254 | 7 x 10 | 504 x 720 |
 | 6 Catalog envelope | 190.5 x 266.7 | 7.5 x 10.5 | 540 x 756 |
 | 9.75 Catalog envelope | 222.25 x 285.75 | 8.75 x 11.25 | 630 x 810 |
+
 ## US Commercial/Official envelope sizes
 | Paper size | mm | inches | points |
 | ---------- | :--: | :------: | :------: |
@@ -172,6 +184,7 @@
 | 7.75 Official envelope | 98.425 x 190.5 | 3.875 x 7.5 | 279 x 540 |
 | 8.625 Official envelope | 92.075 x 219.075 | 3.625 x 8.625 | 261 x 621 |
 | 9 Official envelope | 98.425 x 225.425 | 3.875 x 8.875 | 279 x 639 |
+
 ## US Square envelope sizes
 | Paper size | mm | inches | points |
 | ---------- | :--: | :------: | :------: |
