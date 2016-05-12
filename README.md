@@ -196,5 +196,10 @@
 | 8.5 Square envelope | 215.9 x 215.9 | 8.5 x 8.5 | 612 x 612 |
 | 9 Square envelope | 228.6 x 228.6 | 9 x 9 | 648 x 648 |
 | 9.5 Square envelope | 241.3 x 241.3 | 9.5 x 9.5 | 684 x 684 |
+
 # License
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
+# Data
+Original data parsed from *The Print Handbook* ([Paper sizes chart](http://resources.printhandbook.com/pages/paper-size-chart.php)). Last accessed: 12.05.2016
+
